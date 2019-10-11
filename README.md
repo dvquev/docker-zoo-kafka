@@ -1,4 +1,4 @@
-# Docker Zookeper+Kafka
+# Docker Zookeeper+Kafka
 
 Docker build to deploy Zookeeper and Kafka in containers.
 
